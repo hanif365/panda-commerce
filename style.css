@@ -1,0 +1,7 @@
+#categories img{
+    width: 100px;
+}
+#categories .cat{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
